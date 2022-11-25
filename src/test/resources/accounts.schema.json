@@ -28,7 +28,7 @@
       },
       "cyrrency": {
         "required": [
-          "RUR",
+          "RUB",
           "USD"
         ],
         "additionalProperties": false
